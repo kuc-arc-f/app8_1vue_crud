@@ -6,6 +6,8 @@
 
  date    : 2020/08/08
 
+ update : 2020/08/09
+
 ***
 
 node/express(es6) + mysql + Vue.js, sample 
@@ -29,6 +31,7 @@ npm i @babel/core @babel/node @babel/preset-env --save-dev
 ***
 ### more
 
+https://note.com/knaka0209/n/n98ebd6b28b61
 
 ***
 
